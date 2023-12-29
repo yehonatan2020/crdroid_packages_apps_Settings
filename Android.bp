@@ -65,7 +65,7 @@ android_library {
     ],
     use_resource_processor: true,
 
-    aaptflags: ["--extra-packages com.alpha.settings"],
+    aaptflags: ["--extra-packages com.sigma.settings"],
 
     resource_dirs: [
         "res",
